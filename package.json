@@ -1,0 +1,19 @@
+{
+  "name": "rickmorty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastermindshaan/RickMorty.git"
+  },
+  "author": "Shashank Mukherjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mastermindshaan/RickMorty/issues"
+  },
+  "homepage": "https://github.com/mastermindshaan/RickMorty#readme"
+}
